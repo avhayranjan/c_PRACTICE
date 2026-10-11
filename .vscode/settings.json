@@ -1,0 +1,11 @@
+{
+"emeraldwalk.runonsave": {
+    "commands": [
+        {
+            "match": ".*",
+            "cmd": "powershell.exe -NoProfile -ExecutionPolicy Bypass -Command \"Set-Location '${workspaceFolder}'; git add -A; if ($LASTEXITCODE -eq 0) { git commit -m 'Auto-update' }; if ($LASTEXITCODE -eq 0) { git push }\"",
+            "autoShowOutputPanel": "error"
+        }
+    ]
+}
+}
