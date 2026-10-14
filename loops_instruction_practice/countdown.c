@@ -1,4 +1,5 @@
 #include<stdio.h>
 int main(){
-    int count 
+    int count = 0;
+    
 }
