@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int count;
-    int i=10;
+    int i=11;
     
         while(i>1){
             i--;
