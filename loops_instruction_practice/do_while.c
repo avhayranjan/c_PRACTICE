@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int i=11;
+    int i;
     do{
         i--;
         printf("%d",i);
