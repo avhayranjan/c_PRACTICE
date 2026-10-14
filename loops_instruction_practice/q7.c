@@ -12,7 +12,7 @@ int main(){
             prime =1 ;
         }   
     }
-    if(not_prime){
+    if(prime){
         printf("%d is not prime",n);
     }
     else{
