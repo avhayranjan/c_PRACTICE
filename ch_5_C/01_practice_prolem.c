@@ -10,5 +10,5 @@ int average(int a , int b , int c){
 }
 int main(){
     average(3,4,5);
-    average(3,9,7)
+    average(3,9,7);
 }
