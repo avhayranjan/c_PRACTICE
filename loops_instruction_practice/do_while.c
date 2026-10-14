@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int i,count;
-    printf
+    printf()
     do{
         i--;
         printf("%d",i);
