@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int i=0 , n;
-    printf("")
+    printf("enter value")
 
     while(i<10){
         i++;
