@@ -5,4 +5,5 @@ int main(){
         i++;
         printf("%d",i);
     }
+    return 0;
     
