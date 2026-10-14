@@ -3,7 +3,7 @@ int main(){
     int count;
     int i=10;
     
-        while(i<=){
+        while(i){
 
             count++;
             printf("count = %d", count);
