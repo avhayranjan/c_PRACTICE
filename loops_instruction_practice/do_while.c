@@ -4,5 +4,5 @@ int main(){
     do{
         printf("%d",i);
     }
-    while(i>);
+    while(i>1);
 }
