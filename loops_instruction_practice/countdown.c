@@ -4,6 +4,8 @@ int main(){
     for(int i = 0 ; i <= 10; i++){
         while(i<= 10);
         count++;
-        
+
     }
+
+    printf()
 }
