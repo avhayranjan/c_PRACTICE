@@ -5,11 +5,11 @@ int main(){
         while(i<= 10){
 
             count++;
+            printf("count = %d", count);
         }
 
     
 
-    printf("count = %d", count);
 
     return 0;
 }
