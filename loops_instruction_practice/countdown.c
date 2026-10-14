@@ -9,5 +9,5 @@ int main(){
 
     printf("%count = %d", count);
 
-    retur
+    return 0;
 }
