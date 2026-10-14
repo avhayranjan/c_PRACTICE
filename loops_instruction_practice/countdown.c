@@ -7,5 +7,5 @@ int main(){
 
     }
 
-    printf("%count = %d")
+    printf("%count = %d", count)
 }
