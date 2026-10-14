@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int i=0 , n;
-    printf
+    printf()
 
     while(i<10){
         i++;
