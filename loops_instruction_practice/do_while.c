@@ -4,5 +4,5 @@ int main(){
     do{
 
     }
-    while(i%2==0)
+    while(i%2==0);
 }
