@@ -3,7 +3,7 @@
 int main(){
     /*number pattern*/
     int i , j ,n ;
-     
+    print 
     for(i =1 ; i<=5 ; i++){
         for(j = 1 ; j<=i ; j++){
             printf("%d" , j);
