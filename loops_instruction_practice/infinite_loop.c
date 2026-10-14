@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
     int i=1;
-    while(i>)
+    while(i>0)
