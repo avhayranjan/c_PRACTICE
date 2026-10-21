@@ -9,4 +9,5 @@ void check_add(int i){
 int main(){
     int i = 7;
     check_add(i);
+    return 0 ;
 }
