@@ -2,5 +2,5 @@
 int main(){
     int a= 4; 
     int *j= &a;
-    printf("")
+    printf("a")
 }
