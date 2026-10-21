@@ -2,7 +2,7 @@
 int main(){
     int a= 4; 
     int *j= &a;
-    printf("adress of the variable is : %p",j);
+    printf("adress of the variable is : %p \n",j);
     printf(" value on the address %p is %d",*j , *(&a));
     return 0 ; 
 }
