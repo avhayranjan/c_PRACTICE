@@ -3,6 +3,6 @@ int main(){
     int a= 4; 
     int *j= &a;
     printf("adress of the variable is : %p",j);
-    printf(" value on the address ")
+    printf(" value on the address %p")
     return 0 ; 
 }
