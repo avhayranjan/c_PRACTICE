@@ -3,7 +3,7 @@ void check_add(int i);
 
 void check_add(int i){
     int* j= &i;
-    printf("%p", void())
+    printf("%p",
 }
 
 int main(){
