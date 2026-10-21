@@ -1,6 +1,6 @@
 #include<stdio.h>
 /*Write a program to print the address of a variable. Use this address to get the value of
-the variable
+the variable/
 int main(){
     int a= 4; 
     int *j= &a;
