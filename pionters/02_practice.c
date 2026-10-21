@@ -1,5 +1,5 @@
 #include <stdio.h>
-void check_
+void check_add
 int main(){
 
 }
