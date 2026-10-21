@@ -2,7 +2,8 @@
 void check_add(int i);
 
 void check_add(int i){
-    i = 
+    i = 22
+    
     int* j= &i;
     printf("%p",(void*)j);
 }
