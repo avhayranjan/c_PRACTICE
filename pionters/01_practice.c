@@ -2,5 +2,5 @@
 int main(){
     int a= 4; 
     int *j= &a;
-    printf("adress off ")
+    printf("adress of the variable is ")
 }
