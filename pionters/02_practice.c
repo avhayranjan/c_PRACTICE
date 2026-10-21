@@ -7,6 +7,6 @@ void check_add(int i){
 
 int main(){
     int i = 7;
-    printf("%",check_add(i));
+    printf("%u",check_add(i));
 
 }
