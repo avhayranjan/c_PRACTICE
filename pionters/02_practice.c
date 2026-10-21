@@ -8,6 +8,5 @@ void check_add(int i){
 
 int main(){
     int i = 7;
-    printf("%p",check_add(i));
-
+    pri
 }
