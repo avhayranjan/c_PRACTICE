@@ -5,6 +5,6 @@ int value(int* a){
 }
 int main(){
     int x ;
-    printf("enter ")
+    printf("enter value of ")
 
 }
