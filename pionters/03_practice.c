@@ -1,5 +1,5 @@
 #include<stdio.h>
 int value(int* a);
 int value(int* a){
-    *a= *a * 30
+    *a= *a * 30 ;
 }
