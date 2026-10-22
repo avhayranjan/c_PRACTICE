@@ -4,5 +4,5 @@ int value(int* a){
     *a= *a * 30 ;
 }
 int main(){
-    int x 
+    int x =
 }
