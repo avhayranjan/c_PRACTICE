@@ -7,6 +7,6 @@ int main(){
     int x ;
     printf("enter value of x :");
     scanf("%d",&x);
-    printf("the value of x %d",value(&))
+    printf("the value of x %d",value(&x))
 
 }
