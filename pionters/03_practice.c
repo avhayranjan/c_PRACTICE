@@ -4,6 +4,7 @@ int value(int* a){
     *a= *a * 30 ;
 }
 int main(){
-    int x =7;
+    int x ;
     
+
 }
