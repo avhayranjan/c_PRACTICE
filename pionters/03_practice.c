@@ -1,2 +1,2 @@
 #include<stdio.h>
-int value(inr)
+int value(int a)
