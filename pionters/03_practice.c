@@ -10,6 +10,5 @@ int main(){
     printf("the value of x %d\n",x);
     value(&x);
     printf("now the value of x = %d\n",x);
-    return 0 ; 
-
+    return 0 ;
 }
