@@ -1,6 +1,6 @@
 #include<stdio.h>
 int value(int* a);
-int value(int* a){
+ value(int* a){
     *a= *a * 30 ;
 }
 int main(){
