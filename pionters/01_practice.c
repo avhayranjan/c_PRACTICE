@@ -7,5 +7,5 @@ int main(){
     printf("adress of the variable is : %p \n",j);
     printf(" value on the address %u is %d",j , *j);
     return 0 ; 
-    mu
+    muskan 
 }
