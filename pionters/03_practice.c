@@ -3,4 +3,4 @@ int value(int* a);
 int value(int* a){
     *a= *a * 30 ;
 }
-int main()
+int main(){}
