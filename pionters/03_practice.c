@@ -8,6 +8,7 @@ int main(){
     printf("enter value of x :");
     scanf("%d",&x);
     printf("the value of x %d",x);
+    
     return 0 ; 
 
 }
