@@ -9,6 +9,7 @@ int main(){
     scanf("%d",&x);
     printf("the value of x %d",x);
     value(&x);
+    
     return 0 ; 
 
 }
