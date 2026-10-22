@@ -6,6 +6,6 @@ int value(int* a){
 int main(){
     int x ;
     printf("enter value of x :");
-    scanf("%d",&x)
+    scanf("%d",&x);
 
 }
