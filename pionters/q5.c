@@ -6,5 +6,6 @@ void swap(int*a , int* b){
     *b = temp;
 }
 int main(){
+    int
 
 }
