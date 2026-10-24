@@ -4,7 +4,7 @@ int main(){
     int *p = &a ;
     int *q = &b ;
     if(*p > *q){
-        printf()
+        printf("")
     }
 
 }
