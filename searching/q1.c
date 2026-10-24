@@ -6,7 +6,7 @@ int main(){
         comparison++;
         if(A[i]=45){
             printf("element is found at position %d",i);
-            
+            printf
             break;
         }       
     }
