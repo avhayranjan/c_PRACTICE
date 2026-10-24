@@ -12,7 +12,7 @@ int main(){
     }
     if(6<i){
         printf("element not found");
-        printf("total comaprison needed %d",)
+        printf("total comaprison needed %d",comparison)
     }
     return 0;
 }
