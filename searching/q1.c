@@ -8,7 +8,6 @@ int main(){
              break ;
             printf("element is found at position %d \n",i+1);
             printf("total comparison needed %d \n", comparison);
-            break ;
         }       
     }
     if(6<i){
