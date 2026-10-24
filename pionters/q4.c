@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
     int a=10 , b=20 ;
-    *p = &a + &b;
+    int *p = &a + &b;
     
 }
