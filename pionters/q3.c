@@ -8,5 +8,5 @@ int main(){
     int a = 10;
     change(&a);
     printf("the new value is %d",a);
-    ret
+    return 0 ; 
 }
