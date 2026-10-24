@@ -7,7 +7,7 @@ int main(){
         printf("p is largest = %d", *p);
     }
     else{
-        printf("q is largest");
+        printf("q is largest = ");
     }
 
 }
