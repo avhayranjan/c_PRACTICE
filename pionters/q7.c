@@ -6,5 +6,5 @@ int main(){
         sum = arr[0] + arr[i];
     }
     printf("sum = %d", sum);
-    
+    return 0; 
 }
