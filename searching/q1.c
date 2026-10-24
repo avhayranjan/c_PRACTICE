@@ -9,7 +9,7 @@ int main(){
             printf("total comparison needed %d \n", comparison);
         }       
     }
-    if(6<=i){
+    if(6<i){
         printf("element not found \n");
         printf("total comaprison needed %d \n",comparison);
     }
