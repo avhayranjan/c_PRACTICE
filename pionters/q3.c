@@ -6,4 +6,5 @@ void change(int* x){
 }
 int main(){
     int a = 10;
+    
 }
