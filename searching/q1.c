@@ -11,7 +11,7 @@ int main(){
         }       
     }
     if(6<i){
-        printf("element not found ");
+        printf("element not found \n");
         printf("total comaprison needed %d",comparison);
     }
     return 0;
