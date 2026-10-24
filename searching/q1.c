@@ -4,7 +4,7 @@ int main(){
     for(int i = 1 ; i<=6 ; i++){
         if(A[i]=45){
             printf("element %d is found",i);
-            
+            break;
         }       
     }
 }
