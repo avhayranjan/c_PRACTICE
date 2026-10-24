@@ -9,5 +9,6 @@ int main(){
     int a= 10 , b= 20;
     printf("before swapping a=%d & b=%d", a ,b);
     swap(a,b);
+    
 
 }
