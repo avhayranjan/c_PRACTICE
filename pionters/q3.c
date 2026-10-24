@@ -6,7 +6,7 @@ void change(int* x){
 }
 int main(){
     int a = 10;
-    printf("previous value = ")
+    printf("previous value = %d")
     change(&a);
     printf("the new value is %d",a);
     return 0 ; 
