@@ -3,7 +3,7 @@ int main(){
     int a=10 , b=20 ;
     int* p = &a;
     int* q = &b;
-    sum = *q + *p;
+    int sum = *q + *p;
     printf("sum =%d",sum);
     return 0 ; 
 }
