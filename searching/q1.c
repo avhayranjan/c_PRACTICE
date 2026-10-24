@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
     int A[] = {10, 25, 30, 45, 50, 65};
-    for(int i = 1 ; i<=6 ; i++)
+    for(int i = 1 ; i<=6 ; i++){
+        
+    }
 }
