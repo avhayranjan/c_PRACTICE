@@ -1,5 +1,5 @@
 #include<stdio.h>
-void swap()
+void swap(int)
 int main(){
 
 }
