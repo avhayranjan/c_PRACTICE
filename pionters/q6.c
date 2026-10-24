@@ -6,6 +6,8 @@ int main(){
     if(*p > *q){
         printf("p is largest");
     }
-    else
+    else{
+        
+    }
 
 }
