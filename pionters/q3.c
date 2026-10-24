@@ -7,5 +7,5 @@ void change(int* x){
 int main(){
     int a = 10;
     change(&a);
-    printf("the new value is %d", 
+    printf("the new value is %d",a)
 }
