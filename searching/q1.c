@@ -8,7 +8,7 @@ int main(){
             break;
         }       
     }
-    if(6>i){
+    if(6<i){
         printf("element not found");
     }
     return 0;
