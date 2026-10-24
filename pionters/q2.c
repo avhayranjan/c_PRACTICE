@@ -2,5 +2,5 @@
 int main(){
     int a = 3;
     int* p = &a;
-    printf("adress ")
+    printf("adress of p")
 }
