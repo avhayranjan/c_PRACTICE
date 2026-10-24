@@ -9,6 +9,6 @@ int main(){
     else{
         printf("q is largest = %d", *q);
     }
-    
+    return 0 ;
 
 }
