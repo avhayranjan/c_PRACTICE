@@ -6,6 +6,6 @@ void swap(int*a , int* b){
     *b = temp;
 }
 int main(){
-    int a= 10 
+    int a= 10 , b= 20
 
 }
