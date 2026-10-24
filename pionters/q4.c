@@ -4,5 +4,4 @@ int main(){
     int* p = a+b;
     printf("sum = %d",*p);
     return 0 ; 
-    
 }
