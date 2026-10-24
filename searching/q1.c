@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int A[] = {10, 25, 30, 45, 50, 65};
-    int i,comparison=0,fou;
+    int i,comparison=0,f;
     for(i = 1 ; i<6 ; i++){
         comparison++;
         if(A[i]=45){
