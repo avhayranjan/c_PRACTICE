@@ -7,5 +7,7 @@ int main(){
             break;
         }       
     }
-    if(n>=i){}
+    if(n>=i){
+        printf
+    }
 }
