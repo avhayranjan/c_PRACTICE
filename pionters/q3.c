@@ -1,5 +1,5 @@
 #include<stdio.h>
-void change()
+void change(int)
 int main(){
 
 }
