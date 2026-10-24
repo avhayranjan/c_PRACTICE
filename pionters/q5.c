@@ -7,7 +7,7 @@ void swap(int*a , int* b){
 }
 int main(){
     int a= 10 , b= 20;
-    printf("before swapping a=%d & ")
+    printf("before swapping a=%d & b")
     swap(a,b);
 
 }
