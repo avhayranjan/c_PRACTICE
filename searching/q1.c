@@ -6,7 +6,7 @@ int main(){
         comparison++;
         if(A[i]=45){
             printf("element is found at position %d \n",i);
-            printf("total comparison needed %d", comparison);
+            printf("total comparison needed %d \n", comparison);
             break;
         }       
     }
