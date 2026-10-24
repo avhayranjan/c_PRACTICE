@@ -9,6 +9,6 @@ int main(){
         }       
     }
     if(6>i){
-        printf("element nou")
+        printf("element not found")
     }
 }
