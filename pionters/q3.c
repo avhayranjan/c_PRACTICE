@@ -4,5 +4,5 @@ void change(int* x){
 
 }
 int main(){
-    i
+    int a = 5
 }
