@@ -3,4 +3,5 @@ int main(){
     int a = 3;
     int* p = &a;
     printf("adress of a = %p",p);
+    return 0 ;
 }
