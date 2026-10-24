@@ -8,6 +8,6 @@ int main(){
         }       
     }
     if(n>=i){
-        printf
+        printf("")
     }
 }
