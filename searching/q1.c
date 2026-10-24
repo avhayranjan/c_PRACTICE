@@ -9,6 +9,6 @@ int main(){
         }       
     }
     if(6>=i){
-        printf("the ")
+        printf("")
     }
 }
