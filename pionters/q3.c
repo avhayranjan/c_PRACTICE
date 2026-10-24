@@ -1,6 +1,6 @@
 #include<stdio.h>
 void change(int* x);
-void change()
+void change(int)
 int main(){
 
 }
