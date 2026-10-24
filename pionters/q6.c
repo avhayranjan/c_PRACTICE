@@ -7,7 +7,7 @@ int main(){
         printf("p is largest");
     }
     else{
-        printf("")
+        printf("q i")
     }
 
 }
