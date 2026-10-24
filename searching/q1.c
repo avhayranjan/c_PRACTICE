@@ -11,5 +11,5 @@ int main(){
     if(6>i){
         printf("element not found");
     }
-    return o
+    return 0;
 }
