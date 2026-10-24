@@ -4,6 +4,5 @@ int main(){
     int sum ;
     for(int i = 0 ; i<5 ; i++){
         sum = arr[0] + arr[i];
-        
     }
 }
