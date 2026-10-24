@@ -7,5 +7,5 @@ int main(){
             break;
         }       
     }
-    if
+    if(n =)
 }
