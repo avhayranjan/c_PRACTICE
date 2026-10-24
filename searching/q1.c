@@ -15,5 +15,6 @@ int main(){
         printf("element not found \n");
         printf("total comaprison needed %d \n",comparison);
     }
+    
     return 0;
 }
