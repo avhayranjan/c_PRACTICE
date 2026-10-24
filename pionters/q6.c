@@ -4,7 +4,7 @@ int main(){
     int *p = &a ;
     int *q = &b ;
     if(*p > *q){
-        printf("p is largest = %d", *);
+        printf("p is largest = %d", *p);
     }
     else{
         printf("q is largest");
