@@ -7,7 +7,7 @@ int main(){
         comparison++;
         if(A[i]==key){
             printf("element is found at position %d \n",i+1);
-            found 
+            found =1 ;
             break;
         }       
     }
