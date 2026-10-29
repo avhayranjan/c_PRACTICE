@@ -5,7 +5,7 @@ int main(){
     int key = 45;
     for(i = 1 ; i<6 ; i++){
         comparison++;
-        if(A[i]=key){
+        if(A[i]==key){
             printf("element is found at position %d \n",i+1);
             break;
         }       
