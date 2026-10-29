@@ -11,7 +11,7 @@ int main(){
             break;
         }       
     }
-    if(){
+    if(found==0){
         printf("element not found \n");
     }
      printf("total comaprison needed %d \n",comparison);
