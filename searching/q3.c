@@ -8,6 +8,7 @@ int main(){
             printf("element fount at position %d", i);
             found=1;
         }
+        found=1;
         break ;
         }
     if(found==0){
