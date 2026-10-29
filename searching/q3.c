@@ -6,7 +6,7 @@ int main(){
     for(int i =0 ; i<6 ; i++){
         if(arr[i]==key){
             printf("element fount at position %d", i);
-            
+            found=1;
         }
         found=1;
         break ;
