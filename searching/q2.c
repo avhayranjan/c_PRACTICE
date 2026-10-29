@@ -4,7 +4,7 @@ int main(){
     int found=0;
     int key=40 ;
     for(int i =0 ; i<6 ; i++){
-        if(arr[i]+=key){
+        if(arr[i]==key){
             printf("lement fount at position %d", i);
         }
         found=1
