@@ -12,4 +12,5 @@ int main(){
     if(found==0){
         printf("element was not available");
     }
+    return 0 ;
 }
