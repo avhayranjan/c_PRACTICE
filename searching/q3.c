@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main(){
+    int arr[]={10,20,30,40,50};
+    int found=0;
+    int key=40 ;
+    for(int i =0 ; i<6 ; i++){
+        if(arr[i]==key){
+            printf("element fount at position %d", i);
+        }
+        found=1;
+        break ;
+        }
+    if(found==0){
+        printf("element was not available");
+    }
+    return 0 ;
+}
