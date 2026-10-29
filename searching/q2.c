@@ -7,6 +7,6 @@ int main(){
         if(arr[i]==key){
             printf("lement fount at position %d", i);
         }
-        found=1
+        found=1;
     }
 }
