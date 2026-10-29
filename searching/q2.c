@@ -7,7 +7,8 @@ int main(){
         if(arr[i]==key){
             printf("lement fount at position %d", i);
         }
-        found=1;    }
+        found=1;
+        }
     if(found==0){
         printf("element was not available");
     }
