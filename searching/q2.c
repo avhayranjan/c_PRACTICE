@@ -4,6 +4,6 @@ int main(){
     int found=0;
     int key=40 ;
     for(int i =0 ; i<6 ; i++){
-        if(arr[i])
+        if(arr[i]=)
     }
 }
