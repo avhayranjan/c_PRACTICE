@@ -10,6 +10,6 @@ int main(){
         found=1;
     }
     if(found==0){
-        printf(element was not available)
+        printf("element was not available)
     }
 }
