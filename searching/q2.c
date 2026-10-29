@@ -1,2 +1,2 @@
 #include<stdio.h>
-int ma
+int main
