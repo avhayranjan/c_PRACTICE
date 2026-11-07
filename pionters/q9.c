@@ -2,7 +2,7 @@
 void pass(int);
 void pass(int* j){
     printf("the value is %p", j);
-    printf("the address of variable %d",)
+    printf("the address of variable %d",*j)
    return 5;
 }
 int main(){
