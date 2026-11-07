@@ -2,7 +2,7 @@
 void pass(int);
 void pass(int* j){
     printf("the value is %p", j);
-    printf()
+    printf("the add")
    return 5;
 }
 int main(){
