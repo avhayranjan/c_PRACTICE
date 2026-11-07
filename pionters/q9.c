@@ -1,6 +1,6 @@
 #include<stdio.h>
 void pass(int);
-void pass(int* ){
+void pass(int* j){
     printf("")
    return 5;
 }
