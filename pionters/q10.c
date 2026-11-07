@@ -2,5 +2,5 @@
 int main(){
     int i=5;
     int* j = i ;
-    printf("enter the ")
+    printf("")
 }
