@@ -7,5 +7,5 @@ int main(){
     int i ; 
     call_reference(i);
     printf("value of i = %d", *i);
-    
+    return 0 ;
 }
