@@ -2,7 +2,7 @@
 void pass(int);
 void pass(int i){
     i = 6;
-    int
+    int* 
 }
 int main(){
     int i=6;
