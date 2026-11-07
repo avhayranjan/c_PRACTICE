@@ -1,7 +1,7 @@
 #include<stdio.h>
 int pass(int*);
 int pass(int* j){
-    printf("the address is %p", j);
+    printf("the address is %p\", j);
     printf("the value of variable %d",*j);
    return 5;
 }
