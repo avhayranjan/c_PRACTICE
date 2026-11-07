@@ -1,7 +1,7 @@
 #include<stdio.h>
 void pass(int);
 void pass(int i){
-    printf("")
+    printf("adress")
    return 5;
 }
 int main(){
