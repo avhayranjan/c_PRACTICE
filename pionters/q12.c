@@ -9,5 +9,5 @@ void sum_average(int* a, int* b){
 int main(){
     int* a= 2; 
     int* b= 6;
-    sum_average(&a , & b)
+    sum_average(&a , & b);
 }
