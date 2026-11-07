@@ -4,5 +4,5 @@ int call_reference(int* i){
     *i=10;
 }
 int main(){
-    int i = 10 ; 
+    int i ; 
 }
