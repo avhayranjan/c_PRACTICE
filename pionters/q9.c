@@ -1,7 +1,8 @@
 #include<stdio.h>
 void pass(int);
 void pass(int* j){
-    printf("the value is %p", j)
+    printf("the value is %p", j);
+    
    return 5;
 }
 int main(){
