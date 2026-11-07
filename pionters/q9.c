@@ -1,6 +1,8 @@
 #include<stdio.h>
 void pass(int);
-void pass(int i){}
+void pass(int i){
+    
+}
 int main(){
     int i=6;
     int* j = &i ; 
