@@ -2,5 +2,5 @@
 int main(){
     int i = 6 ; 
     int* j = i ;
-    printf("the address of variable is ")
+    printf("the address of variable is %")
 }
