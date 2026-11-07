@@ -1,2 +1,2 @@
 #include<stdio.h>
-int mi
+int main
