@@ -6,6 +6,6 @@ int main(){
     int* i=5;
     printf("before value = %d",*i);
     multiplyvalue(i);
-    printf("after value = %d", *j);
+    printf("after value = %d", *i);
     return 0 ; 
 }
