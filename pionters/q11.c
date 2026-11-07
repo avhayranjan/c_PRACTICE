@@ -5,5 +5,5 @@ int call_reference(int* i){
 }
 int main(){
     int i ; 
-    printf("%d"*(call_reference(i)));
+    printf(""*(call_reference(i)));
 }
