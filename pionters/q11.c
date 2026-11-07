@@ -6,4 +6,5 @@ int call_reference(int* i){
 int main(){
     int i ; 
     call_reference(i);
+    
 }
