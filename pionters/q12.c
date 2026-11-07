@@ -10,5 +10,5 @@ int main(){
     int a= 2; 
     int b= 6;
     sum_average(&a , & b);
-    rt
+    return 0 ;
 }
