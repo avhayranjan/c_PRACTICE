@@ -3,5 +3,5 @@ int main(){
     int i = 6 ; 
     int* j = &i ;
     printf("the address of variable is %p \n", j);
-    printf(" the value at adress is %\n",*j);
+    printf(" the value at adress is %d\n",*j);
 }
