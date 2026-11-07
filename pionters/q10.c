@@ -1,5 +1,5 @@
 #include<stdio.h>
-int 10xvalue
+int 
 int main(){
     int i=5;
     int* j = &i ;
