@@ -1,2 +1,2 @@
 #include<stdio.h>
-sum_average(int* a , int* b);
+voidsum_average(int* a , int* b);
