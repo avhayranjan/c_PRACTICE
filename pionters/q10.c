@@ -1,5 +1,5 @@
 #include<stdio.h>
-int 
+int 10
 int main(){
     int i=5;
     int* j = &i ;
