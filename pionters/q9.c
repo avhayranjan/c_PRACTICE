@@ -2,5 +2,5 @@
 int main(){
     int i=6;
     int* j = &i ; 
-    printf("adress od variable is %d")
+    printf("adress od variable is %p")
 }
