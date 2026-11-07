@@ -1,7 +1,7 @@
 #include<stdio.h>
 void pass(int);
 void pass(int i){
-   return
+   return 
 }
 int main(){
     int i=6;
