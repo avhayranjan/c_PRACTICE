@@ -5,5 +5,4 @@ void sum_average(int* a, int* b){
     printf("sum =%d",*(sum));
     int* average = (*a + *b) /2;
     printf("average = %d",*(average));
-
 }
