@@ -1,5 +1,5 @@
 #include<stdio.h>
-int mu
+int multiplevalue
 int main(){
     int i=5;
     int* j = &i ;
