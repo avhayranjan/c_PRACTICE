@@ -1,2 +1,2 @@
 #include<stdio.h>
-int sum(int* a , int*)
+int sum(int* a , int* b )
