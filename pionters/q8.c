@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
     int i = 6 ; 
-    int *j = i ;
+    intj = i ;
     printf("the address of variable is %p", &j);
 }
