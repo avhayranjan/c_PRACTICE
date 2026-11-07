@@ -1,5 +1,6 @@
 #include<stdio.h>
-void pass(int pass(int* j){
+void pass(int
+     pass(int* j){
     printf("the address is %p", j);
     printf("the value of variable %d",*j);
    return 5;
