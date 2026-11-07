@@ -1,7 +1,7 @@
 #include<stdio.h>
 void pass(int);
 void pass(int* j){
-    printf("the value")
+    printf("the value o")
    return 5;
 }
 int main(){
