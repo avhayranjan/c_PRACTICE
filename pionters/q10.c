@@ -1,5 +1,5 @@
 #include<stdio.h>
-int multiplyvalue(int* ){
+int multiplyvalue(int* j){
 
 }
 int main(){
