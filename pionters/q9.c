@@ -3,7 +3,7 @@ void pass(int);
 void pass(int i){
     i = 6;
     int* j= i; 
-    printf()
+    printf("the value ")
 }
 int main(){
     int i=6;
