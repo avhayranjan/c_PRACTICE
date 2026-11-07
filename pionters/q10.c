@@ -7,4 +7,5 @@ int main(){
     int* j = &i ;
     printf("before value = %d",i);
     multiplyvalue(i);
+    
 }
