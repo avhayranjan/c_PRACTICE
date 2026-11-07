@@ -4,6 +4,7 @@ int multiplyvalue(int* i){
 }
 int main(){
     int i=5;
+    int
     printf("before value = %d",*i);
     multiplyvalue(i);
     printf("after value = %d", *i);
