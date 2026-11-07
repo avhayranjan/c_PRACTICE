@@ -8,5 +8,5 @@ void sum_average(int* a, int* b){
 }
 int main(){
     int* a= 2; 
-    int* b= 6
+    int* b= 6;
 }
