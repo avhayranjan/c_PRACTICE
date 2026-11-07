@@ -1,6 +1,6 @@
 #include<stdio.h>
 int multiplyvalue(int* j){
-    j
+    j*
 }
 int main(){
     int i=5;
