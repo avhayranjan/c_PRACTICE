@@ -3,7 +3,7 @@ void pass(int);
 void pass(int i){
     i = 6;
     int* j= &i; 
-    printf("the adress  ")
+    printf("the adress of  ")
 }
 int main(){
     int i=6;
