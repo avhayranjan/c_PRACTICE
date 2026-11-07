@@ -1,2 +1,2 @@
 #include<stdio.h>
-int sum_(int* a , int* b);
+int sum_average(int* a , int* b);
