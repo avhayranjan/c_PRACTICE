@@ -3,7 +3,7 @@ int multiplyvalue(int* i){
     *i = 10*(*i);
 }
 int main(){
-    int* i=5;
+    int i=5;
     printf("before value = %d",*i);
     multiplyvalue(i);
     printf("after value = %d", *i);
