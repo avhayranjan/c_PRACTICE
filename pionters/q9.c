@@ -1,5 +1,5 @@
 #include<stdio.h>
-void pass
+void pass()
 int main(){
     int i=6;
     int* j = &i ; 
