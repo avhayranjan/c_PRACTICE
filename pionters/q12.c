@@ -7,5 +7,6 @@ void sum_average(int* a, int* b){
     printf("average = %d",*(average));
 }
 int main(){
-    int* a= 2
+    int* a= 2; 
+    
 }
