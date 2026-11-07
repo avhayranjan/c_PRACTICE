@@ -8,4 +8,5 @@ int main(){
     printf("before value = %d",i);
     multiplyvalue(i);
     printf("after value = %d",*j);
+    return 0 ;
 }
