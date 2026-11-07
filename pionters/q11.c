@@ -4,7 +4,7 @@ int call_reference(int* i){
     *i=10;
 }
 int main(){
-    int i ; 
+    int* i ; 
     call_reference(i);
     printf("value of i = %d", *i);
     return 0 ;
