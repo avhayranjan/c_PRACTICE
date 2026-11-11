@@ -12,4 +12,5 @@ int main(){
             printf(" the value of arr[%d][%d] %d\n",i,j,arr[i][j]);
         }
     }
+    return 
 }
