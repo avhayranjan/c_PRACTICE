@@ -3,7 +3,7 @@ int main(){
     int arr[10];
     int i,j;
     for(i=0 ; i<10;i++){
-        printf("enter the value")
+        printf("enter the value ")
         for(j=0;j<=i;j++){
             arr[j]=(j+1)*5;
         }
