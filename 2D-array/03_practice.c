@@ -8,6 +8,6 @@ int main(){
         }
         printf("arr[%d]=%d\n",i,arr[i]);
     }
-    print
+    printf
     return 0;
 }
