@@ -8,5 +8,5 @@ int main(){
         }
         printf("arr[%d]=%d\n",i,arr[j]);
     }
-    return 
+    return 0
 }
