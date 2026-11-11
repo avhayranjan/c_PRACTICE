@@ -6,5 +6,5 @@ int main(){
             arr[j]=(i+1)*5;
         }
     }
-    printf("arr[]")
+    printf("arr[%d]")
 }
