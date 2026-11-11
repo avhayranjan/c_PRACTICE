@@ -4,7 +4,7 @@ int main(){
 
     for(int i=1 ; i<=10;i++){
        arr[i]=i*5;
-       v
+       
     }
     printf("%d",arr[i]);
 }
