@@ -1,5 +1,4 @@
 #include<stdio.h>
 int main(){
-    int a=5;
-    ffjfjfjfjfjfjf
+    int a=5
 }
