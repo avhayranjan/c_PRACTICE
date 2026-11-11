@@ -6,5 +6,4 @@ int main(){
        arr[i]=i*5;
         printf("%d",arr[i]);
     }
-   
 }
