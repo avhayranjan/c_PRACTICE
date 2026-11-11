@@ -8,7 +8,7 @@ int main(){
         }
     }
     for(int i=0 ; i<3 ;i++){
-        for(int i=0 ; i<2 ; i++){
+        for(int j=0 ; i<2 ; i++){
             printf(" the value of arr[%d][%d] %d\n",i,j,arr[i][j]);
         }
     }
