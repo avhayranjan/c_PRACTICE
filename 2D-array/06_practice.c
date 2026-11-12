@@ -2,7 +2,7 @@
 #include<stdio.h>
 void reverse_array(int arr[]);
 void reverse_array(int arr[]){
-    int 
+    int i;
    while(i>0){
     int arr
    }
