@@ -4,7 +4,7 @@ void printArray(int a[], int n){
         printf("%d",a[i]);
     } 
 }
-void reverse(int )
+void reverse(int a)
 int main(){
     int arr[]={1,2,3,4,5,6,};
     printArray(arr,6);
