@@ -7,4 +7,5 @@ int main(){
     int *ptr = a[0];
 
     printf("the value at address %u is %d",ptr+3,*(ptr+3));
+    
 }
