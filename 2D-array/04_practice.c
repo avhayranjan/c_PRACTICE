@@ -8,5 +8,6 @@ int main(){
     printf("enter thr value to get multiple :");
     scanf("%d",&n);
         
+
     
 }
