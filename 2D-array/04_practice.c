@@ -8,7 +8,7 @@ int main(){
     printf("enter thr value to get multiple :");
     scanf("%d",&n);
      for(int i=0 ; i<10 ; i++){
-        int arr[i]=
+        arr
      }   
 
     
