@@ -2,5 +2,5 @@
 #include<stdio.h>
 void reverse_array(int arr[]);
 void reverse_array(int arr[]){
-    
+    fot
 }
