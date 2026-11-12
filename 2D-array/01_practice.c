@@ -3,5 +3,5 @@
 element of the array*/
 #include<stdio.h>
 int main(){
-    int arr[]
+    int arr[109]
 }
