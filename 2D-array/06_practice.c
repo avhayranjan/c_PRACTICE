@@ -10,5 +10,5 @@ int reverse_array(int arr[]){
 }
 int main(){
     int a[]={10,20,30,40,50};
-    reverse_array()
+    reverse_array(a)
 }
