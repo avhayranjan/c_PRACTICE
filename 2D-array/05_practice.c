@@ -6,7 +6,7 @@ void printArray(int a[], int n){
 }
 void reverse(int a[], int n){
     int temp;
-    
+    for(int i =)
 }
 int main(){
     int arr[]={1,2,3,4,5,6,};
