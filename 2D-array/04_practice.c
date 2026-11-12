@@ -11,5 +11,4 @@ int main(){
         arr[i]=n*(i+1);
     }
     
-
 }
