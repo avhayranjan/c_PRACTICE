@@ -2,7 +2,7 @@
 (ptr+2)
  points to
 the third element where 
-ptris a pointer pointing to the first element of the array*/
+ptr is a pointer pointing to the first element of the array*/
 #include<stdio.h>
 int main(){
 
