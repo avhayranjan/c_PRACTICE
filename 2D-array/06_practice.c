@@ -1,7 +1,7 @@
 /*Write a program containing a function which reverses the array passed to it*/
 #include<stdio.h>
 int reverse_array(int arr[]);
-void reverse_array(int arr[]){
+int  reverse_array(int arr[]){
     int i;
    while(i>0){
     int arr[i];
