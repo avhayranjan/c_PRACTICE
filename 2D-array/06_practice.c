@@ -1,4 +1,4 @@
-/*Write a program containing a function which reverses the array passed to it*/
+/**/
 #include<stdio.h>
 int count(int arr[],int n){
     int no_positive=0;
