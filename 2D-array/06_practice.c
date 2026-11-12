@@ -7,4 +7,5 @@ void reverse_array(int arr[]){
     int arr[i];
     i--;
    }
+   
 }
