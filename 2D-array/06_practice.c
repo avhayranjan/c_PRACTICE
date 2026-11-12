@@ -2,5 +2,7 @@
 #include<stdio.h>
 void reverse_array(int arr[]);
 void reverse_array(int arr[]){
-   while(i>0){}
+   while(i>0){
+    
+   }
 }
