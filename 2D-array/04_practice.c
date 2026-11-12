@@ -8,7 +8,7 @@ int main(){
     printf("enter thr value to get multiple :");
     scanf("%d",&n);
      for(int i=0 ; i<10 ; i++){
-        arr[i]=n*;
+        arr[i]=n*();
      }   
      for(int i=0; i<10 ; i++){
         printf("5x%d=%d\n",i+1 ,arr[i]);
