@@ -6,7 +6,7 @@ int main(){
     int arr[10];
     int n;
     printf("enter thr value to get multiple :");
-    scanf("%d",)
+    scanf("%d",i)
     for(int i = 0 ; i<10 ; i++){
         
     }
