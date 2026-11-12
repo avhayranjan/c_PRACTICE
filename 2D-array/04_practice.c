@@ -5,6 +5,6 @@ scanf
 int main(){
     int arr[10];
     for(int i = 0 ; i<10 ; i++){
-        printf("Enter %d multiple of 5")
+        printf("Enter %d multiple of 5",)
     }
 }
