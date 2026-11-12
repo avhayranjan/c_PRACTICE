@@ -1,6 +1,6 @@
 #include<stdio.h>
 void printArray(int a[], int n){
-    for(int i = )
+    for(int i = 0 ; )
 }
 int main(){
     int arr[]={1,2,3,4,5,6,};
