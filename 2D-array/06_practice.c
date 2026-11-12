@@ -8,4 +8,4 @@ void reverse_array(int arr[]){
     i--;
    }
 }
-int main
+int main()
