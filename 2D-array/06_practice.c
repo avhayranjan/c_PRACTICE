@@ -10,6 +10,6 @@ int reverse_array(int arr[]){
 }
 int main(){
     int a[]={10,20,30,40,50};
-    reverse_array(a[]);
+    reverse_array(a[i]);
     printf("%d",a[]);
 }
