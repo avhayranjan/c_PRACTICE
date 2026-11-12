@@ -1,6 +1,4 @@
 /* Repeat problem 3 for a general input provided by the user using 
-an array.
-9 respectively.
 scanf 
 .*/
 
