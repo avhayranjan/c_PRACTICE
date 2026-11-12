@@ -3,8 +3,8 @@
 void count(int arr[],int n){
     int no_positive=0;
     for(int i=0 ; i < 0 ; i++){
-        if(arr[]>0){
-            
+        if(arr[i]>0){
+
         }
     }
 }
