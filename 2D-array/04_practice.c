@@ -11,6 +11,6 @@ int main(){
         arr[i]=n*(i+1);
      }   
      for(int i=0; i<10 ; i++){
-        printf("5x%d=%d\n",i+1 ,arr[i]);
+        printf("%d=%d\n",i+1 ,arr[i]);
      }
 }
