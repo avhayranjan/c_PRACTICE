@@ -3,6 +3,6 @@
 void reverse_array(int arr[]);
 void reverse_array(int arr[]){
    while(i>0){
-    int
+    int arr
    }
 }
