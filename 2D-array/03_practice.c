@@ -2,14 +2,15 @@
 it.*/
 #include<stdio.h>
 int main(){
+    int main() {
     int arr[10];
     int i,j;
     for(i=0 ; i<10;i++){
-        for(j=0;j<=i;j++){
-            arr[j]=(j+1)*5;
+            arr[i]=(i+1)*5;
         }
-        printf("arr[%d]=%d\n",i,arr[i]);
+    for(i=0;i<10;i++){
+        printf("5X%d=%d\n",i+1,arr[i]);
     }
-    printf("%d",arr[0]);
+    printf("%d",arr[6]);
     return 0;
 }
