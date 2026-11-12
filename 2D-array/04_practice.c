@@ -5,7 +5,7 @@ scanf
 int main(){
     int arr[10];
     int n;
-    printf()
+    printf("enter thr value ")
     for(int i = 0 ; i<10 ; i++){
         
     }
