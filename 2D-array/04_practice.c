@@ -7,7 +7,7 @@ int main(){
     int n;
     printf("enter thr value to get multiple :");
     scanf("%d",&n);
-     for(int i=0 ; i)   
+     for(int i=0 ; i<10 ; i)   
 
     
 }
