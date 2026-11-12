@@ -9,5 +9,5 @@ void reverse_array(int arr[]){
    }
 }
 int main(){
-    int a
+    int arr
 }
