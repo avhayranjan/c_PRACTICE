@@ -15,6 +15,6 @@ void reverse(int a[], int n){
 int main(){
     int arr[]={1,2,3,4,5,6,};
     printArray(arr,6);
-    revr
+    reverse
     printArray(arr,6); 
 }
