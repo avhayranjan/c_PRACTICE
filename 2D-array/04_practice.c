@@ -4,5 +4,5 @@ scanf
 #include<stdio.h>
 int main(){
     int arr[10];
-    printf()
+    printf('enter thr ')
 }
