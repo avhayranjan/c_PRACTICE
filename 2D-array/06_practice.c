@@ -1,5 +1,5 @@
 /*Write a program containing a function which reverses the array passed to it*/
 #include<stdio.h>
 int main(){
-    int a[]={10,20,30,40,50,}
+    int a[]={10,20,30,40,50,-9 }
 }
