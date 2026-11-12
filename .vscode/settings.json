@@ -7,5 +7,6 @@
             "autoShowOutputPanel": "error"
         }
     ]
-}
+},
+"C_Cpp.errorSquiggles": "enabled"
 }
