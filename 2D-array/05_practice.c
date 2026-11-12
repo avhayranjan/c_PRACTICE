@@ -7,7 +7,8 @@ void printArray(int a[], int n){
 void reverse(int a[], int n){
     int temp;
     for(int i =0 ; i<n;i++){
-        temp = a[i]
+        temp = a[i];
+        
     }
 }
 int main(){
