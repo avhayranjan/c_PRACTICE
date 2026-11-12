@@ -1,4 +1,5 @@
-/*Write a program containing functions which counts the number of positive integers in an array*/
+/*Write a program containing functions which counts the number of positive integers in 
+an array*/
 #include<stdio.h>
 int count(int arr[],int n){
     int no_positive=0;
