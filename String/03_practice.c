@@ -5,6 +5,6 @@ int main(){
     char c=str[i];
     while(c!='\0'){
         c=str[i];
-        
+        i
     }
 }
