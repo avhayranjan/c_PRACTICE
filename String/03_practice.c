@@ -9,4 +9,5 @@ int main(){
     }
     count=i-1;
     print("%d",count);
+    return 0;
 }
