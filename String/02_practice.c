@@ -8,7 +8,7 @@ int main(){
     for(i=0;i<6;i++){
         scanf("%c", &a[i]);
     }
-    a[5]=''
+    a[5]='\'
     //using %s
     printf("your string %s",a);
     printf("enter string in b:");
