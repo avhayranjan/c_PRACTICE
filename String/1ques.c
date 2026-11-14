@@ -4,6 +4,6 @@ int main(){
     printf("enter the your name :\n");
     scanf("%s",a);
     printf("your name is:%s",a);
-    printf("total letter in your name :%zu")
+    printf("total letter in your name :%zu",strlr)
     return 0;
 }
