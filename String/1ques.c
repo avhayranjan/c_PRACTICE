@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include
+#include<
 int main(){
     char a[100];
     printf("enter the your name :\n");
