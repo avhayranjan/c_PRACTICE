@@ -11,5 +11,5 @@ int main(){
     printf("your string %s",a);
     printf("enter string in b:");
     scanf("%s", b);
-    printf("")
+    printf("your second string is ")
 }
