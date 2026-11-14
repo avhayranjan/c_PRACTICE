@@ -1,5 +1,5 @@
 #include<stdio.h>
-int strlen(char str[]){
+int strlent(char str[]){
     int i =0 , count ;
     char c=str[i];
     while(c!='\0'){
