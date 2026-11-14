@@ -11,7 +11,6 @@ int strlen(char str[]){
 }
 int main(){
     char str[]='abhay';
-    printf("%d",count);
     printf("%d",strlen(str));
     return 0;
 }
