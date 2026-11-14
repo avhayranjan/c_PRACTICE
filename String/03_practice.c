@@ -19,6 +19,6 @@ int main(){
     }
     count=i-1;
     print("%d",count);
-    strlen(a)
+    strlen(str)
     return 0;
 }
