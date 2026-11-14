@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
     //taking string with %c
-    chae a[6];
-    
+    char a[6];
+
 }
