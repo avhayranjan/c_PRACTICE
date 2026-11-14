@@ -10,7 +10,7 @@ int strlen(char str[]){
     return count;
 }
 int main(){
-    char str[]="";
+    char str[]="abhay";
     printf("%d",strlen(str));
     return 0;
 }
