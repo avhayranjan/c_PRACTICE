@@ -8,5 +8,5 @@ int main(){
         i++;
     }
     count=i-1;
-    print("%d",count)
+    print("%d",count);
 }
