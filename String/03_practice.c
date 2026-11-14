@@ -8,7 +8,6 @@ int strlen(char a[]){
     }
     count=i-1;
     return count;
-
 }
 int main(){
     char str[]='abhay';
