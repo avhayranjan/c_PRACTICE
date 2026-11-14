@@ -5,8 +5,6 @@ int main(){
     int i;
     printf("enter charcater:");
     for(i=0;i<6;i++){
-        
+
     }
-
-
 }
