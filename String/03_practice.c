@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-    char str[]='abhay'
+    char str[]='abhay';
 }
