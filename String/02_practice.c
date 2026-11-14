@@ -9,5 +9,6 @@ int main(){
         scanf("%c", &a[i]);
     }
     printf("your string %s",a);
-    printf("enter string in b:")
+    printf("enter string in b:");
+    scanf()
 }
