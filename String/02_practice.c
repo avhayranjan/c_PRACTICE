@@ -7,5 +7,5 @@ int main(){
     for(i=0;i<6;i++){
         scanf("%c", &a[i]);
     }
-    print
+    printf
 }
