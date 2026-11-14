@@ -10,7 +10,7 @@ int strlen(char a[]){
     return count;
 }
 int main(){
-    char str[='abhay';
+    char str[]='abhay';
     int i =0 , count ;
     char c=str[i];
     while(c!='\0'){
