@@ -2,5 +2,5 @@
 int main(){
     char str[]='abhay';
     int i =0 , count ;
-    char c=str
+    char c=str[i]
 }
