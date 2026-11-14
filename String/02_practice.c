@@ -2,6 +2,6 @@
 int main(){
     //taking string with %c
     char a[6];
-    printf("enter charcater")
+    printf("enter charcater:")
 
 }
