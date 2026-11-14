@@ -22,4 +22,5 @@ int main(){
     printf("no. of vowel is %d\n",vowel);
     printf("no. of consonant is %d\n",consonant);
     return 0 ;
+    
 }
