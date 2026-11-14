@@ -2,4 +2,5 @@
 int main(){
     //taking string with %c
     chae a[6];
+    
 }
