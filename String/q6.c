@@ -9,7 +9,7 @@ int main()
     printf("enter 2 second string :");
     fgets(b,sizeof(b),stdin);
     strcat(b,a);
-    printf("combined string: %s",a);
+    printf("combined string: %s",b);
     return 0;
 
 }
