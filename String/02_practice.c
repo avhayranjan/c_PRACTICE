@@ -9,4 +9,5 @@ int main(){
         scanf("%c", &a[i]);
     }
     printf("your string %s",a);
+    
 }
