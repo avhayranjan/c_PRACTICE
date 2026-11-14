@@ -3,7 +3,7 @@ int strlen(char a[]){
     int i =0 , count ;
     char c=a[i];
     while(c!='\0'){
-        c=str[i];
+        c=a[i];
         i++;
     }
     count=i-1;
