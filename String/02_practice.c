@@ -2,7 +2,7 @@
 int main(){
     //taking string with %c
     char a[6];
-    int i
+    int i;
     printf("enter charcater:");
 
 
