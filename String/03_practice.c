@@ -7,6 +7,7 @@ int strlen(char a[]){
         i++;
     }
     count=i-1;
+    
 
 }
 int main(){
