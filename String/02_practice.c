@@ -4,7 +4,7 @@ int main(){
     char a[6];
     int i;
     printf("enter charcater:");
-    
+    for
 
 
 }
