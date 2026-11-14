@@ -12,5 +12,4 @@ int main()
     printf("b is equal to :");
     puts(b);
     return 0;
-
 }
