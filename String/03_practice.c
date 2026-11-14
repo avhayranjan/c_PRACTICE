@@ -3,5 +3,5 @@ int main(){
     char str[]='abhay';
     int i =0 , count ;
     char c=str[i];
-    while
+    while()
 }
