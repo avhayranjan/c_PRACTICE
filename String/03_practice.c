@@ -19,6 +19,6 @@ int main(){
     }
     count=i-1;
     printf("%d",count);
-    printf("%strlen(str);
+    printf("%dstrlen(str);
     return 0;
 }
