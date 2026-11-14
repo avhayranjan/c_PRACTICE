@@ -18,7 +18,7 @@ int main(){
         i++;
     }
     count=i-1;
-    print("%d",count);
+    printf("%d",count);
     strlen(str);
     return 0;
 }
