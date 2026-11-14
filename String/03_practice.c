@@ -11,6 +11,6 @@ int strlent(char str[]){
 }
 int main(){
     char str[]="abhay";
-    printf("%d",strlen(str));
+    printf("%d",strlent(str));
     return 0;
 }
