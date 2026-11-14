@@ -1,5 +1,5 @@
 #include<stdio.h>
-int strlen(int a)
+int strlen(cha)
 int main(){
     char str[]='abhay';
     int i =0 , count ;
