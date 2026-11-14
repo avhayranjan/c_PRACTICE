@@ -7,5 +7,6 @@ int main(){
         c=str[i];
         i++;
     }
-    count=i-1
+    count=i-1;
+    print
 }
