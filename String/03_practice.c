@@ -11,13 +11,6 @@ int strlen(char str[]){
 }
 int main(){
     char str[]='abhay';
-    int i =0 , count ;
-    char c=str[i];
-    while(c!='\0'){
-        c=str[i];
-        i++;
-    }
-    count=i-1;
     printf("%d",count);
     printf("%d",strlen(str));
     return 0;
