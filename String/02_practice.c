@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
     //taking string with %c
-    chae a[6]
+    chae a[6];
 }
