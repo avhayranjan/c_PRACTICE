@@ -1,7 +1,7 @@
 #include<stdio.h>
 int strlen(char a[]){
     int i =0 , count ;
-    char c=a[i];
+    char c=str[i];
     while(c!='\0'){
         c=a[i];
         i++;
