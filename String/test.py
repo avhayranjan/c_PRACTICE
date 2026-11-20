@@ -1,2 +1,2 @@
 int a=10;
-print()
+print(a);
