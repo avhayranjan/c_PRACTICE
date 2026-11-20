@@ -1,3 +1,3 @@
 a=10
 print(a)
-int(input("a number;"))
+int(input("a number:"))
