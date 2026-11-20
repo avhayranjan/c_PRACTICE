@@ -1,2 +1,2 @@
-int a=10;
+int a=10
 print(a);
