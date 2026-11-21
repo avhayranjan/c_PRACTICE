@@ -5,5 +5,5 @@ int main(){
     printf("enter value 1:");
     scanf("%d", &a);
     printf("enter value 2 :");
-    sacnf("")
+    sacnf("%")
 }
