@@ -2,5 +2,5 @@
 int main(){
     int a,b;
     char operator;
-    printf()
+    printf("enter value 1")
 }
