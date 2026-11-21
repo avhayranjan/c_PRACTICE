@@ -4,5 +4,5 @@ int main(){
     char operator;
     printf("enter value 1:");
     scanf("%d", &a);
-    printf
+    printf*
 }
