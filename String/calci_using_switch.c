@@ -7,5 +7,5 @@ int main(){
     printf("enter value 2 :");
     scanf("%d", &b);
     printf("enter operator");
-    scanf("%c",)
+    scanf("%c", )
 }
