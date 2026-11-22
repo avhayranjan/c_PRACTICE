@@ -9,7 +9,7 @@ int main(){
             a[j+1]=key;
             j--;
         }
-        a[j]=key;
+        a[j+]=key;
     }
     printf("sorted array : ");
     for(i=0 ; i<5 ;i++){
