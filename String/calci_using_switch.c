@@ -20,7 +20,7 @@ int main(){
             printf("division= %d",a/b);
         }
         else{
-            printf("divisible by zer")
+            printf("divisible by zero is not authorized")
         }
 
     }
