@@ -27,7 +27,7 @@ int main(){
         }
          break;
         default :
-        printf()
+        printf("")
 
     }
     return 0;
