@@ -9,6 +9,6 @@ int main(){
     printf("enter operator");
     scanf(" %c", &operator);
     switch(operator){
-        case
+        case 
     }
 }
