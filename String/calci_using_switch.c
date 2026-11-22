@@ -27,7 +27,7 @@ int main(){
         }
          break;
         default :
-        
+        peint
 
     }
     return 0;
