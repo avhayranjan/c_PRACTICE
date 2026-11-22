@@ -11,7 +11,7 @@ int main(){
     switch(operator){
         case '+':
         printf("addition=%d",a+b);
-        case ''
+        case '-'
 
 
     }
