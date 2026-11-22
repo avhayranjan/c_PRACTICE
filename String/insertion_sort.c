@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 int main(){
     int a[5]={23,15,43,20,44};
     int i , j ,key;
