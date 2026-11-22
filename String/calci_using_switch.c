@@ -10,7 +10,7 @@ int main(){
     scanf(" %c", &operator);
     switch(operator){
         case '+':
-        printf
+        printf()
 
 
     }
