@@ -12,7 +12,7 @@ int main(){
         case '+':
         printf("addition=%d",a+b);
         case '-' :
-        printf("subtraction %d",a-)
+        printf("subtraction %d",a-b)
 
 
     }
