@@ -10,6 +10,7 @@ int main(){
     scanf(" %c", &operator);
     switch(operator){
         case '+';
+        
 
     }
 }
