@@ -11,7 +11,7 @@ int main(){
     switch(operator){
         case '+':
         printf("addition=%d",a+b);
-        break
+        break;
         case '-' :
         printf("subtraction %d",a-b);
         case '*':
