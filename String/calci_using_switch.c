@@ -8,5 +8,7 @@ int main(){
     scanf("%d", &b);
     printf("enter operator");
     scanf(" %c", &operator);
-    switch(operator){}
+    switch(operator){
+        
+    }
 }
