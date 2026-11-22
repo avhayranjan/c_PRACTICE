@@ -28,7 +28,6 @@ int main(){
          break;
         default :
         printf("invalid operator");
-
     }
     return 0;
 }
