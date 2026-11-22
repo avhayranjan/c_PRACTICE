@@ -20,7 +20,7 @@ int main(){
             printf("division= %d",a/b);
         }
         else{
-            printf("divisio")
+            printf("divis")
         }
 
     }
