@@ -13,7 +13,7 @@ int main(){
         printf("addition=%d",a+b);
         case '-' :
         printf("subtraction %d",a-b);
-        case '-':
+        case '*':
 
 
     }
