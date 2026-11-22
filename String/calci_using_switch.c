@@ -10,7 +10,8 @@ int main(){
     scanf(" %c", &operator);
     switch(operator){
         case '+':
-        printf("addition=%d",a+b)
+        printf("addition=%d",a+b);
+        
 
 
     }
