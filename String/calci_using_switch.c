@@ -19,7 +19,9 @@ int main(){
         if(b!=0){
             printf("division= %d",a/b);
         }
-        else
+        else{
+            print
+        }
 
     }
 }
