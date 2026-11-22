@@ -26,6 +26,7 @@ int main(){
             printf("divisible by zero is not authorized");
         }
          break;
+         
 
     }
     return 0;
