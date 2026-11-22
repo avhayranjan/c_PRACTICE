@@ -15,7 +15,7 @@ int main(){
         printf("subtraction %d",a-b);
         case '*':
         printf("multiplication = %d",a*b);
-        cae
+        case ''
 
 
     }
