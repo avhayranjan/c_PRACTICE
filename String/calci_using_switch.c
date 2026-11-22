@@ -17,7 +17,6 @@ int main(){
         printf("multiplication = %d",a*b);
         case '/':
         if(b!=0){
-
             printf("division= %d",a/b);
         }
 
